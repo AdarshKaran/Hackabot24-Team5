@@ -11,7 +11,7 @@ Within a 24-hour time limit, tasks included:
 - Task 3: Conducting the final demonstration to exhibit the successful completion of all tasks and showcasing the innovations achieved within the allocated time frame at the University of Manchester's HackABot2024 event.
 
 ### The Arena
-<img src="https://github.com/AdarshKaran/Hackabot24-Team5/blob/main/hacakbot%20media/Arena.jpg?raw=true" width="800">
+<img src="https://github.com/AdarshKaran/Hackabot24-Team5/blob/main/hacakbot%20media/Arena.jpg?raw=true" width="600">
 
 
 
@@ -25,6 +25,6 @@ Components Used:
 
 
 ### Final Robot
-<img src="https://github.com/AdarshKaran/Hackabot24-Team5/blob/main/hacakbot%20media/Final.jpg?raw=true" height="800">
+<img src="https://github.com/AdarshKaran/Hackabot24-Team5/blob/main/hacakbot%20media/Final.jpg?raw=true" height="400">
 
 [Watch the Video](/hacakbot media/Robot Final.mp4)
