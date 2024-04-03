@@ -11,7 +11,7 @@ Within a 24-hour time limit, tasks included:
 - Task 3: Conducting the final demonstration to exhibit the successful completion of all tasks and showcasing the innovations achieved within the allocated time frame at the University of Manchester's HackABot2024 event.
 
 The Arena:
-![Arena](./hacakbot media/Arena.jpg)
+![Arena](hacakbot media/Arena.jpg)
 
 # Implementation
 
