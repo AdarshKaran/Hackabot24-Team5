@@ -25,6 +25,6 @@ Components Used:
 
 
 ### Final Robot
-<img src="https://github.com/AdarshKaran/Hackabot24-Team5/blob/main/hacakbot%20media/Final.jpg?raw=true" width="800">
+<img src="https://github.com/AdarshKaran/Hackabot24-Team5/blob/main/hacakbot%20media/Final.jpg?raw=true" height="800">
 
 [Watch the Video](/hacakbot media/Robot Final.mp4)
