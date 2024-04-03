@@ -18,8 +18,13 @@ Within a 24-hour time limit, tasks included:
 # Implementation
 
 Components Used:
--
--
+- Arduino Uno
+- HW 130 Motor Controller (L293D Motor Driver Shield)
+- ESP32-CAM
+- HC-05 Bluetooth Module
+- 4 x Wheels
+- 4 x DC Motors
+- 1 x Mini 9g Analog Servo Motor
 
 ### Work In Progress
 <img src="https://github.com/AdarshKaran/Hackabot24-Team5/blob/main/hacakbot%20media/WIP1.jpg?raw=true" width="400">
