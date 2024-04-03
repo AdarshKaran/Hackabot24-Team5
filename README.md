@@ -10,7 +10,7 @@ Within a 24-hour time limit, tasks included:
 - Task 2: Remote operation of the robot using live camera data to contain and push ping-pong balls scattered across the arena into a central pit. Implemented color detection algorithms to identify the color of the ping-pong balls.
 - Task 3: Conducting the final demonstration to exhibit the successful completion of all tasks and showcasing the innovations achieved within the allocated time frame at the University of Manchester's HackABot2024 event.
 
-The Arena:  
+### The Arena
 <img src="https://github.com/AdarshKaran/Hackabot24-Team5/blob/main/hacakbot%20media/Arena.jpg?raw=true" width="800">
 
 
