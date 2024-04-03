@@ -35,3 +35,7 @@ Components Used:
 Watch The Video (5x Speed)
 
 https://github.com/AdarshKaran/Hackabot24-Team5/assets/112091438/a527f25f-3c85-4d18-b004-9edc8e40fd9a
+
+### Acknowledgements
+The ESP32 Cam Color Detection code was originally written by [fustyles](https://github.com/fustyles/Arduino/tree/master/ESP32-CAM_Tracking.js).
+
