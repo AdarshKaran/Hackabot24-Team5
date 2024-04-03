@@ -16,7 +16,11 @@ Within a 24-hour time limit, tasks included:
 
 
 # Implementation
+Our team of 3 successfully built and programmed a teleoperated robot in just 24 hours! This versatile robot tackled diverse terrains (sand, ramps, bridges) while completing two key tasks:
 
+- Precise Path Following: We designed a control system allowing the robot to follow a designated path while being teleoperated remotely.
+- Autonomous Ball Collection with Vision Guidance: The robot utilized live camera data and color detection algorithms to identify and maneuver ping-pong balls scattered across an arena. An inverted scooping arm efficiently pushed the balls into a central pit.
+    
 Components Used:
 - Arduino Uno
 - HW 130 Motor Controller (L293D Motor Driver Shield)
