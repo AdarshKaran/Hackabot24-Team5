@@ -18,10 +18,13 @@ Within a 24-hour time limit, tasks included:
 # Implementation
 
 Components Used:
-Work In Progress:
-![Final](/hacakbot media/WIP1.jpg)
+-
+-
 
-Final Robot:
-![Final](/hacakbot media/Final.jpg)
+### Work In Progress
+
+
+### Final Robot
+<img src="https://github.com/AdarshKaran/Hackabot24-Team5/blob/main/hacakbot%20media/Final.jpg?raw=true" width="800">
 
 [Watch the Video](/hacakbot media/Robot Final.mp4)
