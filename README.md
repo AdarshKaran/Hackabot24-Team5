@@ -22,7 +22,7 @@ Components Used:
 -
 
 ### Work In Progress
-
+<img src="https://github.com/AdarshKaran/Hackabot24-Team5/blob/main/hacakbot%20media/WIP1.jpg?raw=true" width="400">
 
 ### Final Robot
 <img src="https://github.com/AdarshKaran/Hackabot24-Team5/blob/main/hacakbot%20media/Final.jpg?raw=true" height="400">
