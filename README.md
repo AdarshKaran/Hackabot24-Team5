@@ -1,6 +1,10 @@
 # Hackabot24-Team5
 Check out the GitHub repo for Team 5's Teleoperated Extraterrestrial Rover from the University of Manchester HackABot2024 event.
 
+- **ESP32_VideoFeed.ino** folder contains code for the video streaming and object detection in ESP32 Cam
+- **MotorControl** folder contains the code to control the 4 motors based on the direction input of _up, down, left, right, stop_
+-** Robot Controller Android App** contains the android app used to teleoperate the rover through _Bluetooth_
+
 # Challenge
 Create a Teleoperated Extraterrestrial Rover for Completing a Series of Tasks. 
 
